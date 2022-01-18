@@ -20,6 +20,6 @@ FeedBack App
  => gh-pages - a package to host this project via github.
 
 
- Live Preview:- https://vignesh-55.github.io/
+ Live Preview:- https://vignesh-55.github.io/feedback-app/
 
  Note:- If not loading please reload the page
