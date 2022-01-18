@@ -22,4 +22,4 @@ FeedBack App
 
  Live Preview:- https://vignesh-55.github.io/feedback-app/
 
- Note:- If not loading please reload the page
+ Note:- Please click the question icon at bottom
